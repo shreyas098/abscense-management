@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abscense-managemenr=t/static/css/main.12f1c20f.css",
+    "main.js": "/abscense-managemenr=t/static/js/main.0529ea12.js",
+    "static/js/787.4f544638.chunk.js": "/abscense-managemenr=t/static/js/787.4f544638.chunk.js",
+    "index.html": "/abscense-managemenr=t/index.html",
+    "main.12f1c20f.css.map": "/abscense-managemenr=t/static/css/main.12f1c20f.css.map",
+    "main.0529ea12.js.map": "/abscense-managemenr=t/static/js/main.0529ea12.js.map",
+    "787.4f544638.chunk.js.map": "/abscense-managemenr=t/static/js/787.4f544638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f1c20f.css",
+    "static/js/main.0529ea12.js"
+  ]
+}
